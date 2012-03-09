@@ -15,12 +15,12 @@ Now, use the tasks to add multiple ssh profiles in **~/.ssh/config**
 	Host koomar.github.com
 	  HostName github.com
 	  User git
-	  IdentityFile /Users/abhijeet/.ssh/id_github_koomar
+	  IdentityFile /Users/koomar/.ssh/id_github_koomar
 
 	Host work.github.com
 	  HostName github.com
 	  User git
-	  IdentityFile /Users/abhijeet/.ssh/id_github_work
+	  IdentityFile /Users/koomar/.ssh/id_github_work
 	
 ## Usage
 	

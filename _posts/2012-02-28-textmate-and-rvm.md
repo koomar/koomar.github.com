@@ -15,14 +15,14 @@ For example,
 	$ rvm wrapper ruby-1.9.2-p290@koomar textmate
 
 	$ which textmate_ruby
-	/Users/abhijeet/.rvm/bin/textmate_ruby
+	/Users/koomar/.rvm/bin/textmate_ruby
 	
-	$ ls -l /Users/abhijeet/.rvm/bin/textmate_ruby	
-	Users/abhijeet/.rvm/bin/textmate_ruby -> 
-	/Users/abhijeet/.rvm/wrappers/ruby-1.9.2-p290@koomar/ruby
+	$ ls -l /Users/koomar/.rvm/bin/textmate_ruby	
+	Users/koomar/.rvm/bin/textmate_ruby -> 
+	/Users/koomar/.rvm/wrappers/ruby-1.9.2-p290@koomar/ruby
 	
 ## Textmate Variable
 
 Now, we need to point TM\_RUBY to 
 	
-	/Users/abhijeet/.rvm/bin/textmate_ruby
+	/Users/koomar/.rvm/bin/textmate_ruby
