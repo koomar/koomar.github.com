@@ -9,7 +9,7 @@ tags: [github, analytics]
 
 ## Mixpanel Analytics Support
 
-Mixpanel analytics support is added to [Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap) with this [commit](https://github.com/plusjade/jekyll-bootstrap/pull/49)
+Mixpanel analytics support is added to [Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap) with my [commit](https://github.com/plusjade/jekyll-bootstrap/pull/49)
 
 Usage is dead simple 
 
